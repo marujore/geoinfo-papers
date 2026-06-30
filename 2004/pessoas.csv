@@ -1,0 +1,164 @@
+id_pessoa,nome,instituicao
+1,Marilton S. de Aguiar,Universidade Catãlica de Pelotas (UCPEL)
+2,Gracaliz P. Dimuro,Universidade Catãlica de Pelotas (UCPEL)
+3,Antãnio C. da R. Costa,Universidade Catãlica de Pelotas (UCPEL)
+4,Rafael K. S. Silva,Universidade Catãlica de Pelotas (UCPEL)
+5,Fabia A. da Costa,Universidade Catãlica de Pelotas (UCPEL)
+6,Vladik Kreinovich,"Department of Computer Science, UTEP"
+7,Paulo Aragão,Universidade Estadual de Campinas (UNICAMP)
+8,Clãudia M. Bauzer Medeiros,Universidade Estadual de Campinas (UNICAMP)
+9,Leonardo Guerreiro Azevedo,Universidade Federal do Rio de Janeiro (UFRJ)
+10,Rodrigo Salvador Monteiro,Universidade Federal do Rio de Janeiro (UFRJ)
+11,Geraldo Zimbrão,Universidade Federal do Rio de Janeiro (UFRJ)
+12,Jano Moreira de Souza,Universidade Federal do Rio de Janeiro (UFRJ)
+13,Daniela F. Brauner,Pontifãcia Universidade Catãlica do Rio de Janeiro (PUC-Rio)
+14,Marco A. Casanova,Pontifãcia Universidade Catãlica do Rio de Janeiro (PUC-Rio)
+15,Carlos J. P. de Lucena,Pontifãcia Universidade Catãlica do Rio de Janeiro (PUC-Rio)
+16,Jorge Campos,Universidade Salvador (Unifacs)
+17,Kathleen Hornsby,University of Maine
+18,Nadjim Chelghoum,University of Versailles
+19,Karine Zeitouni,University of Versailles
+20,Alexandre Coelho,Universidade do Estado do Rio de Janeiro (UERJ)
+21,Marcio Nascimento,Universidade do Estado do Rio de Janeiro (UERJ)
+22,Cristiana Bentes,Universidade do Estado do Rio de Janeiro (UERJ)
+23,Maria Clicia Stelling de Castro,Universidade do Estado do Rio de Janeiro (UERJ)
+24,Ricardo Farias,Universidade Federal do Rio de Janeiro (UFRJ)
+25,Jaudete Daltio,Universidade Federal de Viãosa (UFV)
+26,Marcus Vinãcius Alvim Andrade,Universidade Federal de Viãosa (UFV)
+27,Gilberto Ribeiro de Queiroz,Instituto Nacional de Pesquisas Espaciais (INPE)
+28,Mehdi Essid,Universitã Paul Cãzanne Aix-Marseille III
+29,Omar Boucelma,Universitã Paul Cãzanne Aix-Marseille III
+30,Flãvia F. Feitosa,Instituto Nacional de Pesquisas Espaciais (INPE)
+31,Gilberto Cãmara,Instituto Nacional de Pesquisas Espaciais (INPE)
+32,Antãnio M. V. Monteiro,Instituto Nacional de Pesquisas Espaciais (INPE)
+33,Thomas Koschitzki,Martin-Luther Universitãt Halle-Wittenberg. Institut fãr Geographie.
+34,Marcelino P. S. Silva,Instituto Nacional de Pesquisas Espaciais (INPE)
+35,Guillermo Nudelman Hess,Universidade Federal do Rio Grande do Sul (UFRGS)
+36,Cirano Iochpe,Universidade Federal do Rio Grande do Sul (UFRGS)
+37,Flavio Rech Wagner,Universidade Federal do Rio Grande do Sul (UFRGS)
+38,Andrã Dias Bastos,Universidade Federal do Rio Grande do Sul (UFRGS)
+39,Marcia Aparecida da Silva Almeida,Universidade Federal do Rio Grande do Sul (UFRGS)
+40,Kathrin Kirchner,University of Jena
+41,Johannes Ruhland,University of Jena
+42,Gustavo Henrique Mandolesi,CPqD Telecom & IT Solutions
+43,Clãudia de Andrade Tambascia,CPqD Telecom & IT Solutions
+44,Sandro Danilo Gatto,CPqD Telecom & IT Solutions
+45,Alexandre Melo Braga,CPqD Telecom & IT Solutions
+46,Heloise Manica,Universidade Federal de Santa Catarina (UFSC)
+47,Murilo S. de Camargo,Universidade de Brasãlia (UnB)
+48,Cristina Dutra de Aguiar Ciferri,Universidade Estadual de Maringã (UEM)
+49,Ricardo Rodrigues Ciferri,Universidade Estadual de Maringã (UEM)
+50,Brigitte Mathiak,Institut fãr Informationssysteme - TU Braunschweig
+51,Andreas Kupfer,Institut fãr Informationssysteme - TU Braunschweig
+52,Karl Neumann,Institut fãr Informationssysteme - TU Braunschweig
+53,Flãvio Mello,Universidade Federal do Rio de Janeiro (UFRJ)
+54,Edilberto Strauss,Universidade Federal do Rio de Janeiro (UFRJ)
+55,Antãnio Oliveira,Universidade Federal do Rio de Janeiro (UFRJ)
+56,Aline Gesualdi,Universidade Federal do Rio de Janeiro (UFRJ)
+57,João B. Mendes,Universidade Federal de Viãosa (UFV)
+58,Cristiano D. Ferreira,Universidade Federal de Viãosa (UFV)
+59,Marcus V. A. Andrade,Universidade Federal de Viãosa (UFV)
+60,Laãrcio M. Namikawa,Instituto Nacional de Pesquisas Espaciais (INPE)
+61,Chris S. Renschler,University at Buffalo
+62,Daniela Nicklas,"Universitãt Stuttgart, Institute of Parallel and Distributed System"
+63,Nicola Hãnle,Universitãt Stuttgart
+64,Michael Moltenbrey,Universitãt Stuttgart
+65,Bernhard Mitschang,Universitãt Stuttgart
+66,Eduardo Nãbrega,Universidade Federal de Pernambuco (UFPE)
+67,Josã Tiago Rolim,Universidade Federal de Pernambuco (UFPE)
+68,Valãria Times,Universidade Federal de Pernambuco (UFPE)
+69,Bianca Maria Pedrosa,Universidade Metodista de Piracicaba (UNIMEP)
+70,Luiz Camolesi Jr.,Universidade Metodista de Piracicaba (UNIMEP)
+71,Marina Teresa Pires Vieira,Universidade Metodista de Piracicaba (UNIMEP)
+72,J. P. Queiroz-Neto,Centro Federal de Educaãão Tecnolãgica do Amazonas (CEFET/AM)
+73,M. F. M. Campos,Universidade Federal de Minas Gerais (UFMG)
+74,B. W. Nelson,INPA - Instituto Nacional de Pesquisas da Amazãnia
+75,J. L. S. Pio,Universidade Federal do Amazonas (UFA)
+76,Lourena Rocha,Instituto Nacional de Matemãtica Pura e Aplicada (IMPA)
+77,Sãrgio Pinheiro,Instituto Nacional de Matemãtica Pura e Aplicada (IMPA)
+78,Marcelo B. Vieira,Instituto Nacional de Matemãtica Pura e Aplicada (IMPA)
+79,Luiz Velho,Instituto Nacional de Matemãtica Pura e Aplicada (IMPA)
+80,Luiz Carlos de Abreu Rodrigues,Centro Federal de Educaãão Tecnolãgica do Paranã (CEFET/PR)
+81,Hideson Alves da Silva,Centro Federal de Educaãão Tecnolãgica do Paranã (CEFET/PR)
+82,Christine Rottenbacher,Institute for Geoinformation and Cartography
+83,Andrã Santanchã,Universidade Estadual de Campinas (UNICAMP)
+84,Claudia Bauzer Medeiros,Universidade Estadual de Campinas (UNICAMP)
+85,Juliano Schimiguel,Universidade Estadual de Campinas (UNICAMP)
+86,M. Cecãlia C. Baranauskas,Universidade Estadual de Campinas (UNICAMP)
+87,Michael Schuenck,Universidade Federal do Rio Grande do Norte (UFRN)
+88,Valãria Gonãalves Soares,Universidade Federal do Rio Grande do Norte (UFRN)
+89,Marcos Aurãlio Santos da Silva,Empresa Brasileira de Pesquisa Agropecuãria (EMBRAPA)
+90,Antãnio Miguel Vieira Monteiro,Instituto Nacional de Pesquisas Espaciais (INPE)
+91,Josã Simeão Medeiros,Instituto Nacional de Pesquisas Espaciais (INPE)
+92,Grace Kelly de Castro Silva,Centro de Pesquisa e Desenvolvimento em Telecomunicaãães (CPqD)
+93,Patrãcia Maria Pereira,Centro de Pesquisa e Desenvolvimento em Telecomunicaãães (CPqD)
+94,Geovane Cayres Magalhães,Centro de Pesquisa e Desenvolvimento em Telecomunicaãães (CPqD)
+95,Joel da Silva,Universidade Federal de Pernambuco (UFPE)
+96,Valãria C. Times,Universidade Federal de Pernambuco (UFPE)
+97,Robson Fidalgo,Universidade Federal de Pernambuco (UFPE)
+98,Roberto Barros,Universidade Federal de Pernambuco (UFPE)
+99,Ana C. Salgado,Universidade Federal de Pernambuco (UFPE)
+100,Ligiane A. de Souza,Universidade Federal de Minas Gerais (UFMG)
+101,Tiago M. Delboni,Universidade Federal de Minas Gerais (UFMG)
+102,Karla A. V. Borges,Universidade Federal de Minas Gerais (UFMG)
+103,Clodoveu A. Davis Junior,Universidade Federal de Minas Gerais (UFMG)
+104,Alberto H. F. Laender,Universidade Federal de Minas Gerais (UFMG)
+105,Vãnia Vidal,Universidade Federal do Cearã (UFC)
+106,Marcel Teixeira,Universidade Federal do Cearã (UFC)
+107,Fãbio Feitosa,Universidade Federal do Cearã (UFC)
+108,Laercio Massaru Namikawa,"National Institute for Space Research, INPE"
+109,Vania Bogorny,"Federal University of Santa Catarina, UFSC"
+110,Daniela Seki,INPE
+111,Janete da Cunha,INPE
+112,Luciana Moreira,INPE
+113,Laercio Namikawa,INPE
+114,Lubia Vinhas,INPE
+115,Marco Antonio Casanova,PUC-Rio
+116,Edzer Pebesma,Iifgi
+117,Armanda Rodrigues,Universidade Nova de Lisboa
+118,Jugurta Lisboa Filho,Universidade Federal de Vi¸ cosa
+119,Val´ eria Times,UFPE
+120,Werner Kuhn,ifgi
+121,Sergio Faria,UFMG
+122,Stephan Winter,Univ. of Melbourne
+123,Pedro Ribeiro de Andrade,INPE
+124,Karla Borges,PRODABEL
+125,Christopher Jones,Cardiﬀ University
+126,Leila Fonseca,INPE
+127,Tiago Carneiro,UFOP
+128,Camilo Renn´ o,INPE
+129,Renato Fileto,UFSC
+130,Ana Paula Afonso,Universidade de Lisboa
+131,Val´ eria Gon¸ calves Soares,UFPB
+132,Clodoveu Davis Jr.,UFMG
+133,Ricardo Torres,UNICAMP
+134,Raul Queiroz Feitosa,PUC-RIO
+135,Marcelino Pereira,UERN
+136,Fl´ avia Feitosa,INPE
+137,Luis Otavio Alvares,UFRGS
+138,Marcus Andrade,UFV
+139,Cl´ audio Baptista,UFCG
+140,Leonardo Azevedo,UNIRIO
+141,Antonio Miguel Vieira Monteiro,INPE
+142,Frederico Fonseca,Pennsylvania State University
+143,Angela Schwering,ifgi
+144,Joachim Gudmundsson,NICTA
+145,Ralf Guting,University of Hagen
+146,Natalia Andrienko,Fraunhofer Institute IAIS
+147,Matt Duckham,University of Melbourne
+148,Bart Kuijpers,Hasselt University
+149,Nico van de Weghe,Universiteit Gent
+150,Jin Soung Yoo,Indiana University - Purdue University
+151,Patrick Laube,University of Zurich
+152,Sanjay Chawla,University of Sydney
+153,Monica Wachowicz,University of New Brunswick
+154,Nikos Mamoulis,University of Hong Kong
+155,Marcelo Tilio de Carvalho,PUC-Rio
+156,Andrea Iabrudi,Universidade Federal de Ouro Preto
+157,Holger Schwarz,University of Stuttgart
+158,Christian Freksa,University of Bremen
+159,Silvana Amaral,INPE
+160,Jo˜ ao Pedro C. Cordeiro,INPE
+161,Sergio Rosim,INPE
+162,Jussara Ortiz,INPE
+163,Mario J. Gaspar da Silva,Universidade de Lisboa

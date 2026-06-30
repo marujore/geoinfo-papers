@@ -1,0 +1,103 @@
+id_pessoa,nome,instituicao
+1,Fãbio da Costa Albuquerque,Pontifãcia Universidade Catãlica do Rio de Janeiro (PUC-Rio)
+2,Ivanildo Barbosa,Pontifãcia Universidade Catãlica do Rio de Janeiro (PUC-Rio)
+3,Marco Antonio Casanova,Pontifãcia Universidade Catãlica do Rio de Janeiro (PUC-Rio)
+4,Marcelo Tãlio Monteiro de Carvalho,Pontifãcia Universidade Catãlica do Rio de Janeiro (PUC-Rio)
+5,Ana Maria Amorim,UNIFACS
+6,Jorge Campos,UNIFACS
+7,Marcelo Azevedo Costa,Universidade Federal de Minas Gerais (UFMG)
+8,Marcos Oliveira Prates,Universidade Federal de Minas Gerais (UFMG)
+9,Marcos Antãnio da Cunha Santos,Universidade Federal de Minas Gerais (UFMG)
+10,Jaudete Daltio,Universidade Estadual de Campinas (UNICAMP)
+11,Carlos Alberto de Carvalho,Empresa Brasileira de Pesquisa Agropecuãria (EMBRAPA)
+12,Auriol Degbelo,University of Muenster
+13,Werner Kuhn,University of Muenster
+14,Rafael Figueiredo,Universidade Federal de Pernambuco (UFPE)
+15,Daniela Pitta,Universidade Federal de Pernambuco (UFPE)
+16,Ana Carolina Salgado,Universidade Federal de Pernambuco (UFPE)
+17,Damires Souza,Universidade Federal de Pernambuco (UFPE)
+18,Sãrgio Freitas,Universidade de Lisboa
+19,Ana Paula Afonso,Universidade de Lisboa
+20,Anderson L. S. Freitas,Universidade Federal de Minas Gerais (UFMG)
+21,Clodoveu A. Davis Junior,Universidade Federal de Minas Gerais (UFMG)
+22,Thompson M. Filgueiras,Universidade Federal de Minas Gerais (UFMG)
+23,Andre Salvaro Furtado,Universidade Federal de Santa Catarina (UFSC)
+24,Renato Fileto,Universidade Federal de Santa Catarina (UFSC)
+25,Chiara Renso,"KDD LAB, ISTI-CNR"
+26,Thiago L. Gomes,Universidade Federal de Viãosa (UFV)
+27,Magalhã,Universidade Federal de Viãosa (UFV)
+28,Salles V. G. es,Universidade Federal de Viãosa (UFV)
+29,Marcus V. A. Andrade,Universidade Federal de Viãosa (UFV)
+30,Guilherme C. Pena,
+31,Joana E. Gonzales Malaverri,Universidade de Campinas (UNICAMP)
+32,Claudia Bauzer Medeiros,Universidade de Campinas (UNICAMP)
+33,Douglas Martins,Universidade Federal de Minas Gerais (UFMG)
+34,Frederico T. Fonseca,The Pennsylvania State University
+35,Tiago Henrique V. M. Moura,Universidade Federal de Minas Gerais (UFMG)
+36,Maxwell Guimarães de Oliveira,Universidade Federal de Campina Grande (UFCG)
+37,Clãudio de Souza Baptista,Universidade Federal de Campina Grande (UFCG)
+38,Antonio Jose C Rodrigues,Universidade Federal de Ouro Preto (UFOP)
+39,Tiago G. S. Carneiro,Universidade Federal de Ouro Preto (UFOP)
+40,Pedro R Andrade,Instituto Nacional de Pesquisas Espaciais (INPE)
+41,Alaor Bianco Rodrigues,Instituto Nacional de Pesquisas Espaciais (INPE)
+42,Walter Abrahão Dos Santos,Instituto Nacional de Pesquisas Espaciais (INPE)
+43,Sidnei J. Siqueira Santanna,Instituto Nacional de Pesquisas Espaciais (INPE)
+44,Corina da Costa Freitas,Instituto Nacional de Pesquisas Espaciais (INPE)
+45,Andre Santanche,Universidade de Campinas (UNICAMP)
+46,Genevieve Jomier,"Universite Paris-IX Dauphine, France"
+47,Michel Zam,"Universite Paris-IX Dauphine, France"
+48,Simone I. R. Xavier,Universidade Federal de Minas Gerais (UFMG)
+49,Laercio Massaru Namikawa,"National Institute for Space Research, INPE"
+50,Vania Bogorny,"Federal University of Santa Catarina, UFSC"
+51,Daniela Seki,INPE
+52,Janete da Cunha,INPE
+53,Luciana Moreira,INPE
+54,Laercio Namikawa,INPE
+55,Lubia Vinhas,INPE
+56,Edzer Pebesma,Iifgi
+57,Armanda Rodrigues,Universidade Nova de Lisboa
+58,Jugurta Lisboa Filho,Universidade Federal de Vi¸ cosa
+59,Val´ eria Times,UFPE
+60,Sergio Faria,UFMG
+61,Stephan Winter,Univ. of Melbourne
+62,Pedro Ribeiro de Andrade,INPE
+63,Karla Borges,PRODABEL
+64,Christopher Jones,Cardiﬀ University
+65,Leila Fonseca,INPE
+66,Tiago Carneiro,UFOP
+67,Camilo Renn´ o,INPE
+68,Gilberto Camara,INPE
+69,Val´ eria Gon¸ calves Soares,UFPB
+70,Clodoveu Davis Jr.,UFMG
+71,Ricardo Torres,UNICAMP
+72,Raul Queiroz Feitosa,PUC-RIO
+73,Marcelino Pereira,UERN
+74,Fl´ avia Feitosa,INPE
+75,Luis Otavio Alvares,UFRGS
+76,Marcus Andrade,UFV
+77,Cl´ audio Baptista,UFCG
+78,Leonardo Azevedo,UNIRIO
+79,Antonio Miguel Vieira Monteiro,INPE
+80,Frederico Fonseca,Pennsylvania State University
+81,Angela Schwering,ifgi
+82,Ricardo Rodrigues Ciferri,UFSCAR
+83,Joachim Gudmundsson,NICTA
+84,Ralf Guting,University of Hagen
+85,Natalia Andrienko,Fraunhofer Institute IAIS
+86,Matt Duckham,University of Melbourne
+87,Bart Kuijpers,Hasselt University
+88,Nico van de Weghe,Universiteit Gent
+89,Jin Soung Yoo,Indiana University - Purdue University
+90,Patrick Laube,University of Zurich
+91,Sanjay Chawla,University of Sydney
+92,Monica Wachowicz,University of New Brunswick
+93,Nikos Mamoulis,University of Hong Kong
+94,Marcelo Tilio de Carvalho,PUC-Rio
+95,Andrea Iabrudi,Universidade Federal de Ouro Preto
+96,Holger Schwarz,University of Stuttgart
+97,Christian Freksa,University of Bremen
+98,Silvana Amaral,INPE
+99,Jo˜ ao Pedro C. Cordeiro,INPE
+100,Sergio Rosim,INPE
+101,Jussara Ortiz,INPE
+102,Mario J. Gaspar da Silva,Universidade de Lisboa
